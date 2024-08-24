@@ -1,5 +1,5 @@
 package com.wellaxis.generic.FileUtility;
 
-public class demo {
+public class ExcelUtility {
 
 }

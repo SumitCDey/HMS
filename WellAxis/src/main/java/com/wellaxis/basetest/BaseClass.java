@@ -1,5 +1,5 @@
 package com.wellaxis.basetest;
 
-public class demo {
+public class BaseClass {
 
 }
